@@ -87,7 +87,7 @@ Navigate to the "Agents" blade, then click "Agents", then click "Add New", then 
 After you click "Set Password", uncheck the box stating "Send the agent a password reset email", then uncheck the box stating "Require password change at next login", then enter "Password1" into the "New Password" field, then click "Set"
 **Write down this information for later**
 
-Then click the "Access" tab, then select "System Administrators" from the Primary Department tab, then select the "Supreme Admin" from the Role tab, then click "Permissions" and make sure every box is checked.
+Then click the "Access" tab, then select "System Administrators" from the Primary Department tab, then select the "Supreme Admin" from the Role tab, then, select "Support" from the Extended Access tab, then click "All Access" then click "Permissions" and make sure every box is checked.
 
 Then click the "Teams" tab, click "--Select Team--" then select "Level I Support", then click "Add", then add "Level II Support" as well, then click "Create"
 
@@ -100,7 +100,7 @@ Then click the "Teams" tab, click "--Select Team--" then select "Level I Support
 <p>
 Now we're going to add another agent
 
-Navigate to the "Agents" blade, then click "Agents", then click "Add New", then type in "Jane Doe" into the Name: field, then enter an email address, then enter a user name, then click "Set Password"
+Navigate to the "Agents" blade, then click "Agents", then click "Add New", then type in "John Doe" into the Name: field, then enter an email address, then enter a user name, then click "Set Password"
 
 After you click "Set Password", uncheck the box stating "Send the agent a password reset email", then uncheck the box stating "Require password change at next login", then enter "Password1" into the "New Password" field, then click "Set"
 **Write down this information for later**
